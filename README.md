@@ -195,7 +195,7 @@ plt.title("Training vs Validation Accuracy")
 ## 👩‍💻 Author
 
 📧 Email: rishika1826@gmail.com
-🌐 GitHub: [https://github.com/<your-username>](https://github.com/<your-username>)
+🌐 GitHub: https://github.com/rishika-1802/Emotion-Detection.git
 
 > A deep learning experiment blending human emotion and machine perception — built with ❤️ and CNNs.
 
